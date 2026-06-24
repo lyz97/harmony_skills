@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenHarmony Native Porting"
+  short_description: "Port native and cross-platform code to OHOS"
+  default_prompt: "Use $openharmony-native-porting to adapt this library or feature for OpenHarmony/OHOS."

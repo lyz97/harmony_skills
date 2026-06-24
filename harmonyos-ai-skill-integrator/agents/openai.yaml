@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS AI Skill Integrator"
+  short_description: "Compare and merge HarmonyOS AI coding skills"
+  default_prompt: "Use $harmonyos-ai-skill-integrator to choose and adapt HarmonyOS NEXT AI coding guidance for this repo."
